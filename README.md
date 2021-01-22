@@ -6,4 +6,4 @@ New File --> commit is: create
 Change File--> commit is: update
 
 ## Local Development
-1. Open index.html in your browser
+1. Open index.html in your browser.
